@@ -149,7 +149,7 @@ http://localhost:3000/
   "author": "NIM ANDA",
   "description": "API untuk praktikum Web Service Engineering (WSE) Week 7"
 }
-
+```
 ## `/api/health`
 ```json
 {
@@ -157,7 +157,7 @@ http://localhost:3000/
   "uptime": 102.5,
   "timestamp": "2025-11-22T12:00:00Z"
 }
-
+```
 ✔️ Kesimpulan Praktikum
 
 Dari praktikum ini, dapat disimpulkan bahwa:
