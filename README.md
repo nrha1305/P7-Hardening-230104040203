@@ -77,17 +77,17 @@ P7-Hardening-230104040203
 # 🚀 Cara Menjalankan API
 
 ## 1️⃣ Install dependency:
-```json
+```
 npm install
 ```
 
 ## 2️⃣ Jalankan server mode development:
-```json
+```
 npm run dev
 ```
 
 ## 3️⃣ Jalankan server mode production:
-```json
+```
 npm start
 ```
 
