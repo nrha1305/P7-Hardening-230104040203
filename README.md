@@ -150,6 +150,37 @@ http://localhost:3000/
 
 ---
 
+## 🖼️ Screenshot Hasil Uji Postman (Tanpa Tabel)
+
+### 1️⃣ GET Semua Data — `/api/products`
+![GET All](screenshots/1.png)
+
+### 2️⃣ GET Berdasarkan ID — `/api/products/:id`
+![GET by ID](screenshots/2.png)
+
+### 3️⃣ POST Data Baru — `/api/products`
+![POST](screenshots/3.png)
+
+### 4️⃣ PUT Update Data — `/api/products/:id`
+![PUT](screenshots/4.png)
+
+### 5️⃣ DELETE Data — `/api/products/:id`
+![DELETE](screenshots/5.png)
+
+### 6️⃣ Metadata API — `/api/info`
+![API Info](screenshots/6.png)
+
+### 7️⃣ Health Check — `/api/health`
+![Health](screenshots/7.png)
+
+### 8️⃣ 404 Not Found (Route Tidak Dikenal)
+![404 Test](screenshots/8.png)
+
+### 9️⃣ 500 Error Handler (Simulasi Crash)
+![Error Handler](screenshots/9.png)
+
+--- 
+
 # 🧾 **Contoh Output JSON**
 
 ## `/api/info`
