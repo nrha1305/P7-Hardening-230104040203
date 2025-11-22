@@ -168,11 +168,11 @@ http://localhost:3000/
 
 Dari praktikum ini, dapat disimpulkan bahwa:
 
-✔ API dapat diperkuat menggunakan berbagai middleware modern
-✔ Mekanisme logging, rate limit, dan security headers sangat penting
-✔ Error handling terstruktur membuat API lebih profesional
-✔ Endpoint observability membantu proses monitoring aplikasi
-✔ API lebih aman dan tahan terhadap serangan dasar
+✔ API dapat diperkuat menggunakan berbagai middleware modern   
+✔ Mekanisme logging, rate limit, dan security headers sangat penting   
+✔ Error handling terstruktur membuat API lebih profesional   
+✔ Endpoint observability membantu proses monitoring aplikasi   
+✔ API lebih aman dan tahan terhadap serangan dasar   
 
 Praktikum berhasil dilakukan dan seluruh endpoint berfungsi sesuai standar.
 
